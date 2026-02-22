@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm AWAZE
 
 🎓 Computer Science Student
+
 💻 Aspiring Software Engineer
+
 🚀 Passionate about building scalable applications & solving real world problems
 
 🧑‍💻 About Me
@@ -18,6 +20,7 @@
 
 
 📊 GitHub Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AWAZE03&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AWAZE03&theme=tokyonight" height="170"/> </p>
 
 📈 Current Focus
