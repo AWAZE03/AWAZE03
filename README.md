@@ -16,7 +16,7 @@
 
 🎯 Goal: Become a top-tier Software Engineer
 
-🤝 Open to internships, collaboration & open-source contributions
+🤝 Open to internships & open-source contributions
 
 
 📊 GitHub Stats
